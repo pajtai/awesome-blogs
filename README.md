@@ -12,6 +12,8 @@ Below is a list of some blogs I've enjoyed reading:
     - Musings on programming, etc.
 - [Dynomight](https://dynomight.net/)
     - Musings
+- [Jeff Geerling (geerlingguy)](https://www.jeffgeerling.com/blog)
+    - Technical musings
 - [Moxie Marlinspike](https://moxie.org/blog/)
     - Tech/Security blog + sailing stories.
 - [Popehat](https://popehat.substack.com/)
