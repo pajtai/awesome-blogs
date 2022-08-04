@@ -8,6 +8,8 @@ Below is a list of some blogs I've enjoyed reading:
 
 - [Bartosz Ciechanowski](https://ciechanow.ski/)
     - Technical explanations illustrated with JavaScript.
+- [Lucas F. Costa](https://lucasfcosta.com/)
+    - Musings on programming, etc.
 - [Dynomight](https://dynomight.net/)
     - Musings
 - [Moxie Marlinspike](https://moxie.org/blog/)
