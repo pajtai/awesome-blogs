@@ -14,7 +14,7 @@ Below is a list of some blogs I've enjoyed reading:
     - Musings
 - [Jeff Geerling (geerlingguy)](https://www.jeffgeerling.com/blog)
     - Technical musings
-- [Microship](https://microship.com/)
+- [Microship](https://microship.com/blog/)
     - Steven K. Roberts's blog
 - [Moxie Marlinspike](https://moxie.org/blog/)
     - Tech/Security blog + sailing stories.
