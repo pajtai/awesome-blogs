@@ -22,4 +22,5 @@ Below is a list of some blogs I've enjoyed reading:
     - Tech/Security blog + sailing stories.
 - [Popehat](https://popehat.substack.com/)
     - Interesting legal stuff
-    
+- [zwischenzugs](https://zwischenzugs.com/)
+    - Ian Miell's tech, devops, consultant blog
