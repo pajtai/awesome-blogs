@@ -10,6 +10,8 @@ Below is a list of some blogs I've enjoyed reading:
     - Technical explanations illustrated with JavaScript.
 - [Lucas F. Costa](https://lucasfcosta.com/)
     - Musings on programming, etc.
+- [Danluu](https://danluu.com/)
+    - Dan Luu's programming blog posts
 - [D-Mac's Stuff](https://blog.djmnet.org/)
     - Computers, Audio, Video, Fun, Thoughts
 - [Dynomight](https://dynomight.net/)
