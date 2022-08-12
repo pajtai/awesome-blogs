@@ -10,6 +10,8 @@ Below is a list of some blogs I've enjoyed reading:
     - Games and not a blog, but still fun
 - [Bartosz Ciechanowski](https://ciechanow.ski/)
     - Technical explanations illustrated with JavaScript.
+- [A Collection of Unmitigated Pedantry](https://acoup.blog/_
+    - Dr. Bret C. Devereaux's blog about ancient and military history
 - [Lucas F. Costa](https://lucasfcosta.com/)
     - Musings on programming, etc.
 - [Danluu](https://danluu.com/)
