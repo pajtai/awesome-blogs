@@ -6,6 +6,8 @@ The best search engine for finding personal(ish) blog content I've found so far 
 
 Below is a list of some blogs I've enjoyed reading:
 
+- [Pippin Barr](https://pippinbarr.com/games/)
+    - Games and not a blog, but still fun
 - [Bartosz Ciechanowski](https://ciechanow.ski/)
     - Technical explanations illustrated with JavaScript.
 - [Lucas F. Costa](https://lucasfcosta.com/)
