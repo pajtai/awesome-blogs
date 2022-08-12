@@ -16,6 +16,8 @@ Below is a list of some blogs I've enjoyed reading:
     - Computers, Audio, Video, Fun, Thoughts
 - [Dynomight](https://dynomight.net/)
     - Musings
+- [Folklore](https://www.folklore.org/index.py)
+    - Anecdotes about the development of Apple's original Macintosh, and the people who made it 
 - [Jeff Geerling (geerlingguy)](https://www.jeffgeerling.com/blog)
     - Technical musings
 - [Microship](https://microship.com/blog/)
