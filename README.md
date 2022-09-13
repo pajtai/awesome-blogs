@@ -22,6 +22,8 @@ Below is a list of some blogs I've enjoyed reading:
     - Musings
 - [Folklore](https://www.folklore.org/index.py)
     - Anecdotes about the development of Apple's original Macintosh, and the people who made it 
+- [Irrational Exuberance](https://lethain.com/)
+    - Will Larson's engineering related musings
 - [Jeff Geerling (geerlingguy)](https://www.jeffgeerling.com/blog)
     - Technical musings
 - [Microship](https://microship.com/blog/)
