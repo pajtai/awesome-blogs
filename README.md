@@ -16,6 +16,8 @@ Below is a list of some blogs I've enjoyed reading:
     - Musings on programming, etc.
 - [Danluu](https://danluu.com/)
     - Dan Luu's programming blog posts
+- [Do The Math](https://dothemath.ucsd.edu/)
+    - Using physics and estimation to assess energy, growth, options — by Tom Murphy
 - [D-Mac's Stuff](https://blog.djmnet.org/)
     - Computers, Audio, Video, Fun, Thoughts
 - [Dynomight](https://dynomight.net/)
