@@ -28,6 +28,8 @@ Below is a list of some blogs I've enjoyed reading:
     - Will Larson's engineering related musings
 - [Jeff Geerling (geerlingguy)](https://www.jeffgeerling.com/blog)
     - Technical musings
+- [Tom MacWright](https://macwright.com/)
+    - Tom MacWright's blog
 - [Microship](https://microship.com/blog/)
     - Steven K. Roberts's blog
 - [Moxie Marlinspike](https://moxie.org/blog/)
