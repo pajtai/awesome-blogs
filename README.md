@@ -34,6 +34,8 @@ Below is a list of some blogs I've enjoyed reading:
     - Steven K. Roberts's blog
 - [Moxie Marlinspike](https://moxie.org/blog/)
     - Tech/Security blog + sailing stories.
+- [Shtetl-Optimized](https://scottaaronson.blog/)
+    - Scott Aaronson's varied blog posts
 - [Stepan Parunashvili](https://stopa.io/)
     - Stepan's blog posts about programming, art, etc.
 - [Popehat](https://popehat.substack.com/)
