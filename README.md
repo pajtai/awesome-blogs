@@ -17,7 +17,7 @@ Below is a list of some blogs I've enjoyed reading:
 - [Lucas F. Costa](https://lucasfcosta.com/)
     - Musings on programming, etc.
 - [Danluu](https://danluu.com/)
-    - Dan Luu's programming blog posts
+    - Programming blog posts
 - [Do The Math](https://dothemath.ucsd.edu/)
     - Using physics and estimation to assess energy, growth, options — by Tom Murphy
 - [D-Mac's Stuff](https://blog.djmnet.org/)
@@ -30,8 +30,11 @@ Below is a list of some blogs I've enjoyed reading:
     - Will Larson's engineering related musings
 - [Jeff Geerling (geerlingguy)](https://www.jeffgeerling.com/blog)
     - Technical musings
+- [Maggie Appleton](https://maggieappleton.com/garden)  
+    - AI, programming, learning
+- [Matt Mazur](https://mattmazur.com/)
+    - Programming, poker
 - [Tom MacWright](https://macwright.com/)
-    - Tom MacWright's blog
 - [Microship](https://microship.com/blog/)
     - Steven K. Roberts's blog
 - [Moxie Marlinspike](https://moxie.org/blog/)
